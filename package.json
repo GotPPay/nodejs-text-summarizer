@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "mathjs": "^3.14.2",
+    "mathjs": "^3.20.1",
     "nalapa": "^1.11.0",
     "natural": "^0.5.4",
     "underscore.string": "^3.3.4"
